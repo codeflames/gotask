@@ -1,6 +1,6 @@
 # gotask
 
-#### Altshool go asignment 1.
+#### Altschool go asignment 1.
 
 Go Task (v1.0)
 create a simple go project that prints your name to the console, using the workspace setup we used during todays session
